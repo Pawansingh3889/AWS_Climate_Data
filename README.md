@@ -29,4 +29,4 @@ The project uses the Berkeley Earth Climate Change: Earth Surface Temperature Da
 
 ## Links
 
-* Berkeley Earth dataset: \[https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+* Berkeley Earth dataset: \[[https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)]
